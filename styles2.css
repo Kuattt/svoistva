@@ -1,0 +1,43 @@
+h1 {
+    color: red;
+
+}
+
+p {
+   font-size: 20px;
+}
+
+.f  {
+    text-align:center
+}
+
+#id1 {
+    font-weight:bold
+}
+
+.class1 {
+    background-image: url('flagkz.png');    
+    background-color:blue
+    
+}
+
+#hi {
+    padding: 15px;
+    margin: 20px;
+    border: 2px solid black;
+}
+
+#hi2 {
+    padding: 20px;
+    margin: 25px;
+    border: 5px solid yellow;
+}
+
+
+.over {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    overflow: scroll;
+}
+
